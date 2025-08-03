@@ -4,7 +4,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/NeginSal/grpc-rabbitmq-app/grpc-rabbitmq-app/proto/orderpb"
+	"github.com/NeginSal/grpc-rabbitmq-app/proto/orderpb"
 	"github.com/NeginSal/grpc-rabbitmq-app/order"
 	"google.golang.org/grpc"
 )

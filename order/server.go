@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	"github.com/google/uuid"
-	"grpc-rabbitmq-app/proto/orderpb"
-	"grpc-rabbitmq-app/internal/rabbitmq"
+	"github.com/NeginSal/grpc-rabbitmq-app/proto/orderpb"
+	"github.com/NeginSal/grpc-rabbitmq-app/internal/rabbitmq"
 )
 
 type Server struct {
